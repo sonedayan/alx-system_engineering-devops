@@ -1,1 +1,1 @@
-File containing I/O redirections
+shell redirection commands
